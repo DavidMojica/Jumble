@@ -1,29 +1,9 @@
-#***************************************************************#
-#                  .                        *                *  #
-#                *          MADE BY            .                #
-#        *           _____,    _..-=-=-=-=-====--,  *   .       #
-#       _         _.'a   /  .-',___,..=--=--==-'`               #
-#      ((        ( _     \ /  //___/-=---=----'                 #
-#       `         ` `\    /  //---/--==----=-'                  #
-#             ,-.    | / \_//-_.'==-==---='       *             #
-#      *     (.-.`\  | |'../-'=-=-=-=--'                   .    #
-#      .      (' `\`\| //_|-\.`;-~````~,        _               #
-#                   \ | \_,_,_\.'        \     .'_`\            #
-#     *             `\            ,    , \    || `\\            #
-#                 .   \    /   _.--\    \ '._.'/  / |         * #
-#                     /  /`---'   \ \   |`'---'   \/            #
-#          *         / /'          \ ;-. \                      #
-#                 __/ /      *    __) \ ) `|            *       #
-#    .           ((='--;)      .  (,___/(,_/                    #
-#                *                                        .   . #
-#       *                David Mojica S.E                       #
-#          GitHub: https://github.com/DavidMojicaDev            #
-#     .         Gmail : davidmojicav@gmail.com                  #
-#---------------------------------------------------------------#
-#            Release version: 1.0 - 25/08/23 (friday)           #
-#***************************************************************#
+# David Mojica S.E                        
+# Gmail : davidmojicav@gmail.com                  
+# Watch my resume: http://davidmojica.42web.io/
+# Release version: 1.0 - 25/08/23 (friday)           
 
-Jumble - release version 1.0
+# Jumble - release version 1.0
 El programa te arrojará varias letras al azar con las cuales debes formar palabras, expresiones,
 nombres, conjugaciones y demás!.
 
