@@ -1,0 +1,77 @@
+{
+    "consonants": ["b", "c", "d", "f", "g", "h", "j", "k", "l", "m", "n", "p", "q", "r", "s", "t", "v", "w", "x", "y", "z"],
+    "vocals": ["a", "e", "i", "o", "u"],
+    "gameover": [
+        "Time out!!",
+        "The match is over!",
+        "That's it! The game has come to an end.",
+        "Time is over!",
+        "It's all over",
+        "Over",
+        "Game is over!",
+        "The game is over, no more words"
+    ],
+    "gameover_larger_words": [
+        "more extensive words that could have been written this match",
+        "words are the longest words in the match"
+    ],
+    "startgame": [
+        "The jumble is:",
+        "Hello everyone! The jumble is:",
+        "Let's begin! Here's the jumbled word:",
+        "Start"
+    ],
+    "startgame_2":[
+        "Available words:",
+        "Posible words:",
+        "Total posible words:"
+    ],
+    "timeout": [
+        "Ops.. Nobody is playing, the match is over.",
+        "Looks like everyone took a break. The game session has ended.",
+        "Timeout! It seems the participants are on a pause. The game is done.",
+        "timeout"
+    ],
+    "correct": [
+        "Nice!",
+        "Good job!",
+        "Correct!",
+        "Awesome!",
+        "Amazing!",
+        "Clean!",
+        "Great!",
+        "Bingo!",
+        "Well done!"
+    ],
+    "incorrect":[
+        "Wops! Word not-found",
+        "Oh no! So close",
+        "Fail, try again",
+        "Oops! This word doesn't exist",
+        "Wrong word",
+        "Miss click",
+        "Slip of the thumb",
+        "Not this time",
+        "Wrong word :/",
+        "So weird D:"
+    ],
+    "repeated": [
+        "Oops! Someone has said the word before!",
+        "It is not allowed to repeat words!",
+        "Repeated word.",
+        "This word is repeated"
+    ],
+    "hurry": [
+        "Hurry up! The time is going out!",
+        "Move on. It seems that time is coming to an end",
+        "Hurry up, don't be lazy"
+    ],
+    "remember": [
+        "Remember, the characters are:",
+        "Remember, the Jumble is: "
+    ],
+    "time_left": [
+        "Time_left -> "
+    ]
+    
+}

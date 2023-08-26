@@ -1,0 +1,42 @@
+{
+    "consonants": ["b", "c", "d", "f", "g", "h", "j", "k", "l", "m", "n", "ñ","p", "q", "r", "s", "t", "v", "w", "x", "y", "z"],
+    "vocals": ["a", "e", "i", "o", "u"],
+    "gameover": [
+        "Se acabó el tiempo! Partida terminada.",
+        "Fin del juego",
+        "El juego ha acabado, no más palabras",
+        ""
+    ],
+    "gameover_larger_words": [
+        "Top 7 palabras más largas que se podían decir esta partida: "
+    ],
+    "startgame": [
+        "Las letras son: \n"
+    ],
+    "startgame_2": [
+        "Posibles palabras: "
+    ],
+    "timeout": [
+       "Al parecer no hay nadie jugando (Muere ignorado).\nPartida terminada"
+    ],
+    "correct": [
+        "Bien"
+    ],
+    "incorrect": [
+        "Esa palabra no existe"
+    ],
+    "repeated": [
+        "Ups! Alguien ha dicho esta palabra antes"
+    ],
+    "hurry": [
+        "El tiempo se acaba!",
+        "Esto terminará pronto!"
+    ],
+    "remember": [
+        "Recuerda, el Jumble es:",
+        "Recuerda, los carácteres son:"
+    ],
+    "time_left": [
+        "Tiempo restante: ->"
+    ]
+}
