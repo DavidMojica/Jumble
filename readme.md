@@ -1,6 +1,3 @@
-## David Mojica S.E                        
-### Watch my resume: http://davidmojica.42web.io/
-### Gmail : davidmojicav@gmail.com                  
 ### Release version: 1.0 - 25/08/23 (friday)           
 
 # Jumble - release version 1.0
